@@ -1,2 +1,2 @@
 # Psychic-Game
-This is wherer i create a Psychic-game whith java
+This is where’ i create a Psychic-game whith java
